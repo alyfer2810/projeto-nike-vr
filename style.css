@@ -1,0 +1,27 @@
+<style>
+
+table { 
+  width: 100%;
+  border-collapse: collapse;
+  }
+
+  th, td { 
+    border: 2px solid #191970;
+    padding: 8px;
+    tex-align: center;
+  }
+
+  th {
+    background-color: teal;
+    color: white;
+  }
+
+  h1 { color: darkblue; /* cor da titulo */}
+
+  p { color: mediumpurple; /* cor da paragrafo */}
+
+  td { color: #483D8B; /* cor do texto da tabela */}
+
+  body { background-color: #E6E6FA; /* Define o fundo da pagina */}
+
+  </style>
